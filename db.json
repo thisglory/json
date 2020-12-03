@@ -36,5 +36,51 @@
                 "schedulever": 1
             }
         }
+    ],
+    "scheduledb": [
+    {
+        "id": "PRG_DEF_ALL",
+        "ver": 1,
+        "contentlist": [
+            {
+                "num": 1,
+                "name": "abcd.jpg",
+                "type": "jpg"
+            },
+            {
+                "num": 2,
+                "name": "진흥원.bmp",
+                "type": "bmp"
+            },
+            {
+                "num": 3,
+                "name": "aaa.mp4",
+                "type": "mp4"
+            }
+        ],
+        "showtime": 30
+    },
+    {
+        "id": "PRG_SPE_ACITY",
+        "ver": 2,
+        "contentlist": [
+            {
+                "num": 1,
+                "name": "good.jpg",
+                "type": "jpg"
+            },
+            {
+                "num": 2,
+                "name": "야탑역.bmp",
+                "type": "bmp"
+            },
+            {
+                "num": 3,
+                "name": "출근.mp4",
+                "type": "mp4"
+            }
+        ],
+        "showtime": 30
+    }
     ]
 }
