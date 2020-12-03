@@ -1,38 +1,40 @@
-"devicedb": [
-    {
-        "id": "KANT_ACA_ACITY_1",
-        "location": "안양시청",
-        "firmwarever": "1.0.1",
-        "schedule": {
-            "scheduleid": "PRG_DEF_ACITY",
-            "schedulever": 2
+{
+    "devicedb": [
+        {
+            "id": "KANT_ACA_ACITY_1",
+            "location": "안양시청",
+            "firmwarever": "1.0.1",
+            "schedule": {
+                "scheduleid": "PRG_DEF_ACITY",
+                "schedulever": 2
+            }
+        },
+        {
+            "id": "KANT_ACA_ACITY_2",
+            "location": "안양시청 앞 광장",
+            "firmwarever": "1.0.4",
+            "schedule": {
+                "scheduleid": "PRG_DEF_ACITY",
+                "schedulever": 2
+            }
+        },
+        {
+            "id": "KANT_ACA_SCITY_1",
+            "location": "성남시청",
+            "firmwarever": "1.0.4",
+            "schedule": {
+                "scheduleid": "PRG_DEF_ALL",
+                "schedulever": 1
+            }
+        },
+        {
+            "id": "KANT_ACA_SCITY_2",
+            "location": "성남시립도서관",
+            "firmwarever": "1.0.2",
+            "schedule": {
+                "scheduleid": "PRG_DEF_ALL",
+                "schedulever": 1
+            }
         }
-    },
-    {
-        "id": "KANT_ACA_ACITY_2",
-        "location": "안양시청 앞 광장",
-        "firmwarever": "1.0.4",
-        "schedule": {
-            "scheduleid": "PRG_DEF_ACITY",
-            "schedulever": 2
-        }
-    },
-    {
-        "id": "KANT_ACA_SCITY_1",
-        "location": "성남시청",
-        "firmwarever": "1.0.4",
-        "schedule": {
-            "scheduleid": "PRG_DEF_ALL",
-            "schedulever": 1
-        }
-    },
-    {
-        "id": "KANT_ACA_SCITY_2",
-        "location": "성남시립도서관",
-        "firmwarever": "1.0.2",
-        "schedule": {
-            "scheduleid": "PRG_DEF_ALL",
-            "schedulever": 1
-        }
-    }
-]
+    ]
+}
