@@ -1,4 +1,30 @@
-{
+{   
+    "contentsdb": [
+        {
+            "filename": "사진001",
+            "filetype": "이미지",
+            "playtime": "none",
+            "status": true,
+        },
+        {
+            "filename": "영상007",
+            "filetype": "영상",
+            "playtime": "00:45",
+            "status": true,
+        },
+        {
+            "filename": "영상009",
+            "filetype": "영상",
+            "playtime": "00:15",
+            "status": false,
+        },
+        {
+            "filename": "사진003",
+            "filetype": "이미지",
+            "playtime": "none",
+            "status": true,
+        }
+        ]
     "devicedb": [
         {
             "id": "KANT_ACA_ACITY_1",
